@@ -1,0 +1,11 @@
+.photoDescription {
+  margin: 0;
+}
+.photoDescription img {
+  height: 120px;
+  width: 180px;
+}
+
+.photoDescription p {
+  margin: 0;
+}

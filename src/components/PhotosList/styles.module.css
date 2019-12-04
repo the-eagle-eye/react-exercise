@@ -1,0 +1,6 @@
+.photosList {
+  align-items: flex-end;
+  margin: 0;
+  list-style: none;
+  flex-wrap: wrap;
+}
